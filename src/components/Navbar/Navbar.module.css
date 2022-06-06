@@ -1,0 +1,13 @@
+.Nav{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:20px;
+    border:1px solid;
+}
+.Nav>div{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    width:10%; 
+}
